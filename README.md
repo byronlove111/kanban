@@ -6,8 +6,6 @@ Kanban avec tableaux imbriqués. Cliquez sur une carte pour ouvrir son sous-tabl
 
 ```bash
 npm install
-npx shadcn-ui@latest init
-npx shadcn-ui@latest add button card input dialog dropdown-menu
 npm run dev
 ```
 
